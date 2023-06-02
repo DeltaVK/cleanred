@@ -1,0 +1,41 @@
+/**
+ * @name Clean Red
+ * @description Allows you to customize Discord's native Color Scheme.
+ * @author DevilBro
+ * @version 1.0.0
+ * @authorId 278543574059057154
+ * @invite Jx3TjNS
+ * @donate https://www.paypal.me/MircoWittrien
+ * @patreon https://www.patreon.com/MircoWittrien
+ * @website https://mwittrien.github.io/
+ * @source https://github.com/mwittrien/BetterDiscordAddons/tree/master/Themes/DiscordRecolor/
+ * @BDEditor DiscordRecolor
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@100;300;400;500;700&display=swap');
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css');
+
+:root {
+  --accentcolor: 84,0,0;
+  --accentcolor2: 115,234,255;
+  --linkcolor: 255,37,37;
+  --mentioncolor: 255,0,0;
+  --textbrightest: 255,255,255;
+  --textbrighter: 222,222,222;
+  --textbright: 185,185,185;
+  --textdark: 140,140,140;
+  --textdarker: 115,115,115;
+  --textdarkest: 80,80,80;
+  --font: Open Sans;
+  --backgroundaccent: 40,20,20;
+  --backgroundprimary: 20,10,10;
+  --backgroundsecondary: 10,5,5;
+  --backgroundsecondaryalt: 30,7,7;
+  --backgroundtertiary: 20,5,5;
+  --backgroundfloating: 1,0,0;
+  --settingsicons: 1;
+}
+
+/* Any custom CSS below here */
+
+
